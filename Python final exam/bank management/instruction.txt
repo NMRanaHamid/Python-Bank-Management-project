@@ -1,0 +1,4 @@
+Admin ID : 101
+Admin password : 2441139 
+
+User Id stat from 10001 
